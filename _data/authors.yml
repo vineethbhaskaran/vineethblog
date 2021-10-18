@@ -1,0 +1,10 @@
+# /_data/authors.yml
+Vineeth Bhaskaran:
+  name        : "Vineeth Bhaskaran"
+  bio         : "Full stack developer"
+  avatar      : "/assets/images/Vineeth_Photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vineethb@test.com"
+   
