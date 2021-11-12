@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/post1/</loc>
+<loc>http://localhost:4000/post1/</loc>
 <lastmod>2021-09-24T12:27:33+05:30</lastmod>
 </url>
 <url>
-<loc>/post2/</loc>
-<lastmod>2021-09-27T12:27:33+05:30</lastmod>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>/post3/</loc>
-<lastmod>2021-10-15T12:27:33+05:30</lastmod>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/posts/</loc>
+<loc>http://localhost:4000/posts/</loc>
 </url>
 </urlset>
